@@ -1,0 +1,4 @@
+admin
+vcE0mjrTLGKIjNuG
+
+mongodb+srv://admin:vcE0mjrTLGKIjNuG@cluster0.x7v7k.mongodb.net/expensetracker?retryWrites=true&w=majority
